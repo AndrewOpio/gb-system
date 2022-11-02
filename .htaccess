@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+ RewriteEngine on
+ RewriteBase /
+ RewriteRule ^home$ home.php [QSA]
+ RewriteRule ^pages$ home.php [QSA]
+ RewriteRule ^details$ details.php [QSA]
+ RewriteRule ^logout$ logout.php [QSA]
+</ifModule>
