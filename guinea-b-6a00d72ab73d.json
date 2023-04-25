@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "guinea-b",
-  "private_key_id": "6a00d72ab73dd634f2317c349fd76a6757da9296",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZWNCNdC0cmS3O\nrm0u1TjwYaen/w+J74wOwAJIBV9yKWATuUxBGIoIHEBK5FwVvKAL1nGVcw4/6qKD\nFSfjkBOaiXfy2GoIdIyfSCqcITHFa4knfJkHVTwuLx0qc12GeHI/2MGefmjHh/yp\nMEJxgOsUQh3WrDdGdLSXNeY68qLuGRNa9LI34fSTGLeIYTJUDdEnoOzJkJnvPrYV\n1mk3TB3oPWqKkHVVTyGB7Ov964DK5A1oeDzBWBkH+rkTrDebvcek7bXBTOIvGWYS\nKSXuASudYqiu1lIoCuNgVQBOmFRrRXYJ/HiExsB02tfktxjbXftcwvXFaVpS1/TN\naaE7C2blAgMBAAECggEARzs22m0tTbacDyUWTmd+CjYPEt1iU9QIxFrERKNSJSGP\nRdeQOLNYpZDQt1rBHTSdBVQqFI9JJ8R3r1szH/77lcWg5JttoMjFv3wQzuuIGsoE\nAMdyhbc3CnHRbrSxfZ0i4G7jAdUu9NnKAg75b6aPJKwIiG8XjIU6HGaDRmV35W0C\niRwaLhdeY8HWLOhEUCB9Yyeg88iVfK3gG+KbI7ddx73SGrliu8RZVOeIVzQqX7o9\njow8knfmLbun98r+UdOz8V/5EuCIPY2f1jhTbZMNGAOp9TVDNUil8hRlEFEymgFH\naidS9OIZSQ9KOrjpNEhvSjUZ6Qm1jWPA9p7YAr19TwKBgQD6by6HplPgR0OfBQrf\nknxrpOBfx2WhkeHsSAE3gvSxi/u69rLWBbc1fJkMWPBfVvyPcy8BtuRLa/xuDYRR\ne92Lzk0WptDUwempsnwox8TL0NFov3pWiFvCIiTbXeyKLbDXRvwlov2J6h9YQM0r\nPK1swewTEB1LMiwu2F1clogNywKBgQDeLWLOkf1M+Ztx4ku09Qk9qH/FNQT2q0ir\n9kPcXgZYVFLHhaoad4/+paNt59P55rMih+QUWYK/aZEDJEyYimUSlIg99E6dwFuu\nnwXRkbDeFDoHEMV0RzfCZswyWjEfJ4CRTNWhA4ol7lmCiVO3Gb0bVePPanHsohaz\nDitW0WTIDwKBgBX28mnLWMfu+CtWUeHSAz+dsmA0KOHG3b3PguvPfI6l7Go1gPHs\nhmkWiIXgtxRlmLksLQ9Fbzh+PCGa5eQPrRq5+WDnOKGwcEIF+YXKH6SQqA073gsA\n4qtgO0NSNZDY+Q2omCzk4r/Z3O3soRINvFgxmfcCDs+tktp495dLTJuJAoGAO8Of\nqYtxxKv8GXVTAhlL5A8YV5b8f9HxWXiEJpoQQOBl6A/XgwkYbdpmjODoj3d0Rlyh\niKvPVOfzvxGbnQjVSVs1Dt1R7HNa9i0Gpqn3FrYAKfhj9PRXVm7KjNzgC85Xcj5l\n1Msb9ToZT9ja8Qz2Zo0DG785Z/rt+jpchB0NbBcCgYEAuQC7GmS4hGqSGPFC8RvX\n5GOHFeHrmC62WyY7Pl1X6ba+7G4V2vedWcSLFQiTcn6fWJvEuWuKryJceQkPD9J0\njvOw57sMPuELr4DnUh6RRMEu6YSOcF7m4Np54SUWbpgcOv2L17TdyvapsemfgPiM\nmg0w18txRt79lM25VoZQ8AU=\n-----END PRIVATE KEY-----\n",
-  "client_email": "g-bissau@guinea-b.iam.gserviceaccount.com",
-  "client_id": "101315632583747660861",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/g-bissau%40guinea-b.iam.gserviceaccount.com"
-}
+
